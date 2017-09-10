@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101426516","appkey":"53399aa5b909d7e25edc05e36981a267","callback":"http://www.chinaphper.top/connect/login","scope":"get_user_info","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
